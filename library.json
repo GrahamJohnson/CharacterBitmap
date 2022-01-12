@@ -1,0 +1,22 @@
+{
+  "name": "CharacterBitmap",
+  "keywords": "led, matrix",
+  "description": "Library for converting characters to 8x8 bitmaps for use with Arduino LED matrix components",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/GrahamJohnson/CharacterBitmap"
+  },
+  "authors":
+  [
+    {
+      "name": "Graham Johnson",
+      "email": "arduino@grahamjohnson.org",
+      "url": "https://github.com/GrahamJohnson",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
